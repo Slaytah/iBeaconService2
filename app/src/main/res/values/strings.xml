@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">iBeaconService</string>
+    <string name="not_enough_data_txt">Not enough data in : </string>
+    <string name="UUID_txt"> UUID </string>
+    <string name="voltage_txt"> battery voltage </string>
+    <string name="major_byte_txt"> major byte </string>
+    <string name="minor_byte_txt"> minor byte </string>
+    <string name="address_txt">addr : %s</string>
+    <string name="name_txt">name : </string>
+    <string name="class_txt">class : </string>
+    <string name="type_txt">type : </string>
+    <string name="unknown_txt">unknown</string>
+</resources>
